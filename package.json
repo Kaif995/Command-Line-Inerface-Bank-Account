@@ -1,0 +1,25 @@
+{
+  "name": "bank_account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kaif995/CLI-Bank-Account.git"
+  },
+  "author": "Kaif Shamim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaif995/CLI-Bank-Account/issues"
+  },
+  "homepage": "https://github.com/Kaif995/CLI-Bank-Account#readme",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
