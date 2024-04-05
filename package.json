@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Kaif995/CLI-Bank-Account.git"
+    "url": "git+ssh://git@github.com/Kaif995/Command-Line-Inerface-Bank-Account"
   },
   "author": "Kaif Shamim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kaif995/CLI-Bank-Account/issues"
+    "url": "https://github.com/Kaif995/Command-Line-Inerface-Bank-Account/issues"
   },
-  "homepage": "https://github.com/Kaif995/CLI-Bank-Account#readme",
+  "homepage": "https://github.com/Kaif995/Command-Line-Inerface-Bank-Account#readme",
   "dependencies": {
     "inquirer": "^9.2.17"
   },
